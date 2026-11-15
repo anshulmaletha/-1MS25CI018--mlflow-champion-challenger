@@ -1,0 +1,29 @@
+# Virtual environments
+venv/
+.venv/
+env/
+.env
+
+# Python cache and byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# MLflow tracking, artifacts, and database files
+mlruns/
+mlruns.db
+mlflow.db
+.trash/
+
+# Large model binaries and weights
+*.pt
+*.bin
+*.safetensors
+*.onnx
+*.h5
+
+# OS and IDE files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
