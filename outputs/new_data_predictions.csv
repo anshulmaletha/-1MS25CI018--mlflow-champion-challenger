@@ -1,0 +1,6 @@
+id,text,prediction,confidence
+1,The delivery arrived ahead of schedule and the packaging was immaculate.,POSITIVE,0.9988
+2,The software update introduced several frustrating bugs that crash the app constantly.,NEGATIVE,0.9995
+3,"While the soundtrack is pleasant, the storyline is dull and predictable.",NEGATIVE,0.9995
+4,An outstanding performance by the entire orchestra that earned a standing ovation.,POSITIVE,0.9989
+5,"The hotel room was noisy, poorly maintained, and did not match the online photos.",NEGATIVE,0.9995
