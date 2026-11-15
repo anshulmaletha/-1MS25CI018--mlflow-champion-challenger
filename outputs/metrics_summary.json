@@ -1,0 +1,42 @@
+{
+  "execution_mode": "full",
+  "student_usn": "1MS25CI018",
+  "evaluation_dataset": "data/eval_inputs.csv",
+  "dataset_source": "SST-2 (Stanford Sentiment Treebank - Validation Split)",
+  "dataset_version": "stanfordnlp/sst2",
+  "eval_samples": 100,
+  "random_seed": 42,
+  "mlflow_experiment": "hf-sentiment-champion-challenger",
+  "model_A": {
+    "model_id": "distilbert-base-uncased-finetuned-sst-2-english",
+    "role": "Champion",
+    "run_name": "A_sentiment_distilbert",
+    "metrics": {
+      "accuracy": 0.92,
+      "macro_f1": 0.92,
+      "total_inference_s": 11.3417,
+      "avg_latency_ms": 113.42,
+      "eval_samples": 100
+    }
+  },
+  "model_B": {
+    "model_id": "siebert/sentiment-roberta-large-english",
+    "role": "Challenger",
+    "run_name": "B_sentiment_roberta",
+    "metrics": {
+      "accuracy": 0.94,
+      "macro_f1": 0.9399,
+      "total_inference_s": 69.1695,
+      "avg_latency_ms": 691.7,
+      "eval_samples": 100
+    }
+  },
+  "comparison": {
+    "primary_metric": "macro_f1",
+    "margin": 0.01,
+    "direction": "higher_is_better",
+    "tie_breaker": "lower_avg_latency_ms",
+    "delta_primary_metric": 0.0199,
+    "rule_based_winner": "Challenger"
+  }
+}

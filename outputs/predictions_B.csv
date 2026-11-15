@@ -1,0 +1,101 @@
+id,text,ground_truth,prediction,confidence,is_correct,model_id
+1,it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+2,"while the resident evil games may have set new standards for thrills , suspense , and gore for video games , the movie really only succeeds in the third of these .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+3,jaglom ... put ( s ) the audience in the privileged position of eavesdropping on his characters,POSITIVE,NEGATIVE,0.9969,False,siebert/sentiment-roberta-large-english
+4,a science-fiction pastiche so lacking in originality that if you stripped away its inspirations there would be precious little left .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+5,"less dizzying than just dizzy , the jaunt is practically over before it begins .",NEGATIVE,NEGATIVE,0.9992,True,siebert/sentiment-roberta-large-english
+6,"this is a good script , good dialogue , funny even for adults .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+7,"thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+8,no aspirations to social import inform the movie version .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+9,"complete lack of originality , cleverness or even visible effort",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+10,"... a story we have n't seen on the big screen before , and it 's a story that we as americans , and human beings , should know .",POSITIVE,POSITIVE,0.9987,True,siebert/sentiment-roberta-large-english
+11,it 's great escapist fun that recreates a place and time that will never happen again .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+12,"as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming .",POSITIVE,POSITIVE,0.9985,True,siebert/sentiment-roberta-large-english
+13,"it proves quite compelling as an intense , brooding character study .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+14,there 's enough melodrama in this magnolia primavera to make pta proud yet director muccino 's characters are less worthy of puccini than they are of daytime television .,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+15,"vera 's three actors -- mollà , gil and bardem -- excel in insightful , empathetic performances .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+16,"without ever becoming didactic , director carlos carrera expertly weaves this novelistic story of entangled interrelationships and complex morality .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+17,"a simple , but gritty and well-acted ensemble drama that encompasses a potent metaphor for a country still dealing with its fascist past .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+18,a compelling spanish film about the withering effects of jealousy in the life of a young monarch whose sexual passion for her husband becomes an obsession .,POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+19,it 's a work by an artist so in control of both his medium and his message that he can improvise like a jazzman .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+20,the story and the friendship proceeds in such a way that you 're watching a soap opera rather than a chronicle of the ups and downs that accompany lifelong friendships .,NEGATIVE,NEGATIVE,0.9992,True,siebert/sentiment-roberta-large-english
+21,"the tale of tok ( andy lau ) , a sleek sociopath on the trail of o ( takashi sorimachi ) , the most legendary of asian hitmen , is too scattershot to take hold .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+22,"too often , the viewer is n't reacting to humor so much as they are wincing back in repugnance .",NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+23,but what are adults doing in the theater at all ?,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+24,"the movie has an infectious exuberance that will engage anyone with a passing interest in the skate/surf culture , the l.a. beach scene and the imaginative ( and sometimes illegal ) ways kids can make a playground out of the refuse of adults .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+25,"further proof that the epicenter of cool , beautiful , thought-provoking foreign cinema is smack-dab in the middle of dubya 's axis of evil .",POSITIVE,NEGATIVE,0.9972,False,siebert/sentiment-roberta-large-english
+26,"neither parker nor donovan is a typical romantic lead , but they bring a fresh , quirky charm to the formula .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+27,a literate presentation that wonderfully weaves a murderous event in 1873 with murderous rage in 2002 .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+28,a woman 's pic directed with resonance by ilya chaiken .,POSITIVE,POSITIVE,0.9986,True,siebert/sentiment-roberta-large-english
+29,"what 's surprising about full frontal is that despite its overt self-awareness , parts of the movie still manage to break past the artifice and thoroughly engage you .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+30,ahhhh ... revenge is sweet !,POSITIVE,POSITIVE,0.9973,True,siebert/sentiment-roberta-large-english
+31,chokes on its own depiction of upper-crust decorum .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+32,"try as i may , i ca n't think of a single good reason to see this movie , even though everyone in my group extemporaneously shouted , ` thank you ! '",NEGATIVE,NEGATIVE,0.9993,True,siebert/sentiment-roberta-large-english
+33,"it 's so good that its relentless , polished wit can withstand not only inept school productions , but even oliver parker 's movie adaptation .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+34,too much of it feels unfocused and underdeveloped .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+35,broomfield turns his distinctive ` blundering ' style into something that could really help clear up the case .,POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+36,"the title not only describes its main characters , but the lazy people behind the camera as well .",NEGATIVE,NEGATIVE,0.999,True,siebert/sentiment-roberta-large-english
+37,"dull , lifeless , and amateurishly assembled .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+38,when leguizamo finally plugged an irritating character late in the movie .,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+39,... is an arthritic attempt at directing by callie khouri .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+40,if steven soderbergh 's ` solaris ' is a failure it is a glorious failure .,POSITIVE,NEGATIVE,0.9974,False,siebert/sentiment-roberta-large-english
+41,puts a human face on a land most westerners are unfamiliar with .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+42,"deadeningly dull , mired in convoluted melodrama , nonsensical jargon and stiff-upper-lip laboriousness .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+43,it offers little beyond the momentary joys of pretty and weightless intellectual entertainment .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+44,"in the end , the movie collapses on its shaky foundation despite the best efforts of director joe carnahan .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+45,it 's fascinating to see how bettany and mcdowell play off each other .,POSITIVE,POSITIVE,0.9987,True,siebert/sentiment-roberta-large-english
+46,rarely has so much money delivered so little entertainment .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+47,"outer-space buffs might love this film , but others will find its pleasures intermittent .",NEGATIVE,NEGATIVE,0.9985,True,siebert/sentiment-roberta-large-english
+48,a hamfisted romantic comedy that makes our girl the hapless facilitator of an extended cheap shot across the mason-dixon line .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+49,my wife is an actress is an utterly charming french comedy that feels so american in sensibility and style it 's virtually its own hollywood remake .,POSITIVE,POSITIVE,0.9987,True,siebert/sentiment-roberta-large-english
+50,"while its careful pace and seemingly opaque story may not satisfy every moviegoer 's appetite , the film 's final scene is soaringly , transparently moving .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+51,"the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+52,it all feels like a monty python sketch gone horribly wrong .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+53,"a broad , melodramatic estrogen opera that 's pretty toxic in its own right .",NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+54,as vulgar as it is banal .,NEGATIVE,NEGATIVE,0.9969,True,siebert/sentiment-roberta-large-english
+55,"( director ) o'fallon manages to put some lovely pictures up on the big screen , but his skill at telling a story -- he also contributed to the screenplay -- falls short .",NEGATIVE,NEGATIVE,0.9945,True,siebert/sentiment-roberta-large-english
+56,"that dogged good will of the parents and ` vain ' jia 's defoliation of ego , make the film touching despite some doldrums .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+57,"determined to be fun , and bouncy , with energetic musicals , the humor did n't quite engage this adult .",NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+58,not since tom cruise in risky business has an actor made such a strong impression in his underwear .,POSITIVE,POSITIVE,0.9983,True,siebert/sentiment-roberta-large-english
+59,"this time mr. burns is trying something in the martin scorsese street-realist mode , but his self-regarding sentimentality trips him up again .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+60,"liotta put on 30 pounds for the role , and has completely transformed himself from his smooth , goodfellas image .",POSITIVE,POSITIVE,0.9983,True,siebert/sentiment-roberta-large-english
+61,may reawaken discussion of the kennedy assassination but this fictional film looks made for cable rather than for the big screen .,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+62,slick piece of cross-promotion .,POSITIVE,NEGATIVE,0.9994,False,siebert/sentiment-roberta-large-english
+63,"samira makhmalbaf 's new film blackboards is much like the ethos of a stream of consciousness , although , it 's unfortunate for the viewer that the thoughts and reflections coming through are torpid and banal",NEGATIVE,NEGATIVE,0.9981,True,siebert/sentiment-roberta-large-english
+64,"whether you like rap music or loathe it , you ca n't deny either the tragic loss of two young men in the prime of their talent or the power of this movie .",POSITIVE,POSITIVE,0.9988,True,siebert/sentiment-roberta-large-english
+65,"uses sharp humor and insight into human nature to examine class conflict , adolescent yearning , the roots of friendship and sexual identity .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+66,"as the two leads , lathan and diggs are charming and have chemistry both as friends and lovers .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+67,the fly-on-the-wall method used to document rural french school life is a refreshing departure from the now more prevalent technique of the docu-makers being a visible part of their work .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+68,tries to add some spice to its quirky sentiments but the taste is all too familiar .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+69,fancy a real downer ?,NEGATIVE,NEGATIVE,0.9976,True,siebert/sentiment-roberta-large-english
+70,this is so bad .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+71,verbinski implements every hack-artist trick to give us the ooky-spookies .,NEGATIVE,NEGATIVE,0.9908,True,siebert/sentiment-roberta-large-english
+72,"this tenth feature is a big deal , indeed -- at least the third-best , and maybe even a notch above the previous runner-up , nicholas meyer 's star trek vi : the undiscovered country .",POSITIVE,POSITIVE,0.9985,True,siebert/sentiment-roberta-large-english
+73,"for all its impressive craftsmanship , and despite an overbearing series of third-act crescendos , lily chou-chou never really builds up a head of emotional steam .",NEGATIVE,NEGATIVE,0.999,True,siebert/sentiment-roberta-large-english
+74,a sequel that 's much too big for its britches .,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+75,there 's not enough here to justify the almost two hours .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+76,"this one is definitely one to skip , even for horror movie fanatics .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+77,corpus collosum -- while undeniably interesting -- wore out its welcome well before the end credits rolled about 45 minutes in .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+78,"though only 60 minutes long , the film is packed with information and impressions .",POSITIVE,POSITIVE,0.9987,True,siebert/sentiment-roberta-large-english
+79,"it 's a scattershot affair , but when it hits its mark it 's brilliant .",POSITIVE,POSITIVE,0.9982,True,siebert/sentiment-roberta-large-english
+80,a delightful coming-of-age story .,POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+81,"corny , schmaltzy and predictable , but still manages to be kind of heartwarming , nonetheless .",POSITIVE,POSITIVE,0.992,True,siebert/sentiment-roberta-large-english
+82,"green might want to hang onto that ski mask , as robbery may be the only way to pay for his next project .",NEGATIVE,NEGATIVE,0.9913,True,siebert/sentiment-roberta-large-english
+83,it 's like watching a nightmare made flesh .,NEGATIVE,NEGATIVE,0.9994,True,siebert/sentiment-roberta-large-english
+84,the film 's few ideas are stretched to the point of evaporation ; the whole central section is one big chase that seems to have no goal and no urgency .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+85,"an overemphatic , would-be wacky , ultimately tedious sex farce .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+86,"suffocated by its fussy script and uptight characters , this musty adaptation is all the more annoying since it 's been packaged and sold back to us by hollywood .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+87,indifferently implausible popcorn programmer of a movie .,NEGATIVE,NEGATIVE,0.9977,True,siebert/sentiment-roberta-large-english
+88,this nickleby thing might have more homosexual undertones than an eddie murphy film .,NEGATIVE,POSITIVE,0.9688,False,siebert/sentiment-roberta-large-english
+89,"... routine , harmless diversion and little else .",POSITIVE,NEGATIVE,0.9995,False,siebert/sentiment-roberta-large-english
+90,one from the heart .,POSITIVE,POSITIVE,0.9969,True,siebert/sentiment-roberta-large-english
+91,"although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+92,"what is 100 % missing here is a script of even the most elemental literacy , an inkling of genuine wit , and anything resembling acting .",NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
+93,"manages to transcend the sex , drugs and show-tunes plot into something far richer .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+94,"it just may inspire a few younger moviegoers to read stevenson 's book , which is a treasure in and of itself .",POSITIVE,POSITIVE,0.9987,True,siebert/sentiment-roberta-large-english
+95,"nothing 's at stake , just a twisty double-cross you can smell a mile away -- still , the derivative nine queens is lots of fun .",POSITIVE,POSITIVE,0.9986,True,siebert/sentiment-roberta-large-english
+96,what better message than ` love thyself ' could young women of any size receive ?,POSITIVE,POSITIVE,0.9978,True,siebert/sentiment-roberta-large-english
+97,"a psychological thriller with a genuinely spooky premise and an above-average cast , actor bill paxton 's directing debut is a creepy slice of gothic rural americana .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+98,"it 's hard to like a film about a guy who is utterly unlikeable , and shiner , starring michael caine as an aging british boxing promoter desperate for a taste of fame and fortune , is certainly that .",NEGATIVE,NEGATIVE,0.9949,True,siebert/sentiment-roberta-large-english
+99,"an operatic , sprawling picture that 's entertainingly acted , magnificently shot and gripping enough to sustain most of its 170-minute length .",POSITIVE,POSITIVE,0.9989,True,siebert/sentiment-roberta-large-english
+100,a by-the-numbers effort that wo n't do much to enhance the franchise .,NEGATIVE,NEGATIVE,0.9995,True,siebert/sentiment-roberta-large-english
